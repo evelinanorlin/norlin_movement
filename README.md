@@ -13,7 +13,7 @@ Mallen innehåller:
 
 ## Installation
 
-Installera "dependencies" till projektet med följande kommando i terminalen:
+Installera \*"dependencies" till projektet med följande kommando i terminalen:
 
 - Med npm: `npm install`
 - Med pnpm: `pnpm install`
