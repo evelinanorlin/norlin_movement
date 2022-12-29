@@ -2,7 +2,7 @@
 
 # FED22D JS Grundkurs Projektmall
 
-Mall för projektuppgiften i JavaScript Grunkurs för FED22D.
+Mall för projektuppgiften i JavaScript Grunkurs för FED22Dd.
 
 Mallen innehåller:
 
