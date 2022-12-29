@@ -16,7 +16,7 @@ Mallen innehåller:
 Installera \*"dependencies" till projektet med följande kommando i terminalen:
 
 - Med npm: `npm install`
-- Med pnpm: `pnpm install`
+- Med pnp: `pnpm install`
 - Med Yarn: `yarn install`
 
 För att köra projektet, använd scriptet "dev" i `package.json`:
