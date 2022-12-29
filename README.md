@@ -8,7 +8,7 @@ Mallen innehåller:
 
 - Vite (för att kmprimera och publicera optimerad kod)
 - ESLint, Prettier och Stylelint för kodformatering
-- TypeScript för typstöd
+- TypeScript ör typstöd
 - Inställningar för Visual Studio Code
 
 ## Installation
